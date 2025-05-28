@@ -186,10 +186,10 @@
         <mxCell id="PeLt05dRuNyQ23PB_SDT-48" value="用户id" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="229" y="918" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-49" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-49" value="密码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="416" y="925" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-50" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-50" value="邮箱" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="582" y="976" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
