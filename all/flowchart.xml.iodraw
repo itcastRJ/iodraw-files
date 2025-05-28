@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="X8WL8T9iB2wwrC-J5VrU-0" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-0" value="开始" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="20" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-1" value="用户打开登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="144" y="1003" width="341" height="123" as="geometry" />
+          <mxGeometry x="144" y="1071" width="115" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
