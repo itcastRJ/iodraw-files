@@ -23,10 +23,10 @@
           <mxGeometry x="105" y="497" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="M-tIHR4DIcTfH-L6iPtZ-8" value="预订成功" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="114" y="781" width="95" height="33" as="geometry" />
+          <mxGeometry x="113.5" y="656" width="95" height="33" as="geometry" />
         </mxCell>
         <mxCell id="M-tIHR4DIcTfH-L6iPtZ-9" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="133" y="864" width="57" height="33" as="geometry" />
+          <mxGeometry x="133" y="786" width="57" height="33" as="geometry" />
         </mxCell>
         <mxCell id="M-tIHR4DIcTfH-L6iPtZ-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M-tIHR4DIcTfH-L6iPtZ-0" target="M-tIHR4DIcTfH-L6iPtZ-1">
           <mxGeometry relative="1" as="geometry">
