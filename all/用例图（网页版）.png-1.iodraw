@@ -10,7 +10,7 @@
         <mxCell id="NKgD-5kaWgIwJ9gR1kiB-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FhjBdXvLvnUG6RFB4L3E-2" target="FhjBdXvLvnUG6RFB4L3E-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NKgD-5kaWgIwJ9gR1kiB-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FhjBdXvLvnUG6RFB4L3E-2" target="FhjBdXvLvnUG6RFB4L3E-8">
+        <mxCell id="NKgD-5kaWgIwJ9gR1kiB-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FhjBdXvLvnUG6RFB4L3E-2" target="FhjBdXvLvnUG6RFB4L3E-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="管理员" id="FhjBdXvLvnUG6RFB4L3E-2">
