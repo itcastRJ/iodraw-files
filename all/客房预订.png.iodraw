@@ -250,25 +250,25 @@
           <mxGeometry x="239" y="1541.9969515458674" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-65" value="客房图片" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="407.0028137423857" y="1541.9971862576144" width="74" height="36" as="geometry" />
+          <mxGeometry x="335.0028137423857" y="1507.9971862576144" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-66" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-58" target="PeLt05dRuNyQ23PB_SDT-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-67" value="客房价格" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480.0030484541326" y="1572" width="74" height="36" as="geometry" />
+          <mxGeometry x="419.0030484541326" y="1548" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-68" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-58" target="PeLt05dRuNyQ23PB_SDT-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-69" value="酒店地址" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="549.0010991546882" y="1608.0017145876975" width="74" height="36" as="geometry" />
+          <mxGeometry x="508.0010991546882" y="1587.0017145876975" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-70" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-58" target="PeLt05dRuNyQ23PB_SDT-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-71" value="点击次数" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="589" y="1647" width="74" height="36" as="geometry" />
+          <mxGeometry x="574" y="1636" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-72" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-58" target="PeLt05dRuNyQ23PB_SDT-71">
           <mxGeometry relative="1" as="geometry" />
@@ -286,7 +286,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-77" value="客房设施" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="637" y="1739.0030484541326" width="74" height="36" as="geometry" />
+          <mxGeometry x="661" y="1745.0030484541326" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-78" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-58" target="PeLt05dRuNyQ23PB_SDT-77">
           <mxGeometry relative="1" as="geometry" />
