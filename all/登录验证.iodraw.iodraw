@@ -1,48 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1236" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="-cVMYrxg4EpYnqGWMYBp-0" value="员工登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="20" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="-cVMYrxg4EpYnqGWMYBp-1" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="386" y="118" width="113" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="-cVMYrxg4EpYnqGWMYBp-2" value="个人资料维护&#xa;• 修改联系方式&#xa;• 更新密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="304" width="248" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="-cVMYrxg4EpYnqGWMYBp-3" value="管理预订请求&#xa;• 审核订单&#xa;• 调整房间分配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="318" y="304" width="248" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="-cVMYrxg4EpYnqGWMYBp-4" value="安排入住事宜&#xa;• 分配房卡&#xa;• 登记附加服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="617" y="304" width="249" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="-cVMYrxg4EpYnqGWMYBp-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cVMYrxg4EpYnqGWMYBp-0" target="-cVMYrxg4EpYnqGWMYBp-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-cVMYrxg4EpYnqGWMYBp-7" value="个人事务" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cVMYrxg4EpYnqGWMYBp-1" target="-cVMYrxg4EpYnqGWMYBp-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="144" y="268" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-cVMYrxg4EpYnqGWMYBp-8" value="预订处理" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cVMYrxg4EpYnqGWMYBp-1" target="-cVMYrxg4EpYnqGWMYBp-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-cVMYrxg4EpYnqGWMYBp-9" value="入住管理" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cVMYrxg4EpYnqGWMYBp-1" target="-cVMYrxg4EpYnqGWMYBp-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="742" y="268" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
