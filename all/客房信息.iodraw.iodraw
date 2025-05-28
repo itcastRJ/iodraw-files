@@ -11,7 +11,7 @@
           <mxGeometry x="264" y="573" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kw98oS-pb--1LQT985f9-2" value="发送数据请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="188" y="672" width="158" height="48" as="geometry" />
+          <mxGeometry x="255" y="678" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kw98oS-pb--1LQT985f9-3" value="数据返回？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="202" y="770" width="129" height="129" as="geometry" />
@@ -53,6 +53,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kw98oS-pb--1LQT985f9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.553;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-1" target="kw98oS-pb--1LQT985f9-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
