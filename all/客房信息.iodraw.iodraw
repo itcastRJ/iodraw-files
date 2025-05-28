@@ -29,6 +29,16 @@
             <mxPoint x="756.7059110753678" y="1090.5882568359375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pWKNH-Ff0Y6X5SGOsbJi-72">
+          <mxGeometry x="-0.3157" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-74" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pWKNH-Ff0Y6X5SGOsbJi-72">
+          <mxGeometry x="0.5146" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-42" value="账号验证是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="544" y="904" width="112" height="112" as="geometry" />
         </mxCell>
