@@ -27,6 +27,9 @@
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-4" value="进入系统界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="227" y="436" width="157" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-5" target="X8WL8T9iB2wwrC-J5VrU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-5" value="显示错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="872" width="157" height="48" as="geometry" />
         </mxCell>
@@ -61,13 +64,6 @@
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-2" target="X8WL8T9iB2wwrC-J5VrU-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X8WL8T9iB2wwrC-J5VrU-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.18;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-5" target="X8WL8T9iB2wwrC-J5VrU-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="98" y="945" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-4" target="X8WL8T9iB2wwrC-J5VrU-7">
