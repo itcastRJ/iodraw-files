@@ -45,11 +45,8 @@
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-22" value="客房退订管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="547" y="387" width="111" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="4u3ZG2WFOfaxO4lYMMF3-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="452" y="340" as="sourcePoint" />
-            <mxPoint x="546" y="404" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="NKgD-5kaWgIwJ9gR1kiB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FhjBdXvLvnUG6RFB4L3E-2" target="FhjBdXvLvnUG6RFB4L3E-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
