@@ -10,7 +10,7 @@
         <mxCell id="qKpi31XNfzEN19COckJd-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-56" target="qKpi31XNfzEN19COckJd-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-79">
+        <mxCell id="qKpi31XNfzEN19COckJd-80" value="内容维护" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-79">
           <mxGeometry x="0.0983" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -42,13 +42,6 @@
         <mxCell id="qKpi31XNfzEN19COckJd-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-55" target="qKpi31XNfzEN19COckJd-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-67" value="客房管理" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-56" target="qKpi31XNfzEN19COckJd-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="662" y="253" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-68" value="用户管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-56" target="qKpi31XNfzEN19COckJd-59">
