@@ -33,6 +33,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kw98oS-pb--1LQT985f9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474.5999755859375" y="970.7999877929688" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kw98oS-pb--1LQT985f9-3" value="数据返回？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="278.5" y="769" width="129" height="129" as="geometry" />
         </mxCell>
@@ -40,7 +45,7 @@
           <mxGeometry x="160" y="972" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kw98oS-pb--1LQT985f9-5" value="显示加载错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="367" y="972" width="157" height="48" as="geometry" />
+          <mxGeometry x="392" y="972" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kw98oS-pb--1LQT985f9-6" value="浏览完成" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="194" y="1070" width="89" height="33" as="geometry" />
