@@ -25,6 +25,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-31" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PeLt05dRuNyQ23PB_SDT-19">
+          <mxGeometry x="0.3051" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-2" value="入住信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="126" width="120" height="60" as="geometry" />
         </mxCell>
@@ -103,7 +108,7 @@
             <mxPoint x="226" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PeLt05dRuNyQ23PB_SDT-26">
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-30" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PeLt05dRuNyQ23PB_SDT-26">
           <mxGeometry x="-0.2048" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
