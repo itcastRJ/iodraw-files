@@ -27,13 +27,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X8WL8T9iB2wwrC-J5VrU-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X8WL8T9iB2wwrC-J5VrU-41">
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-43" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X8WL8T9iB2wwrC-J5VrU-41">
           <mxGeometry x="0.2236" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-40" value="输入信息为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="101.25" y="315" width="201.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="217" y="258" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
