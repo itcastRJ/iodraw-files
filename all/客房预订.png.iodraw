@@ -59,7 +59,7 @@
           <mxGeometry x="704" y="387" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-63" value="提示错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1108" y="508" width="125" height="48" as="geometry" />
+          <mxGeometry x="917" y="497" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-64" value="退出" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="709" y="607" width="56" height="33" as="geometry" />
@@ -72,21 +72,6 @@
         <mxCell id="qKpi31XNfzEN19COckJd-68" value="用户管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-56" target="qKpi31XNfzEN19COckJd-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-75" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-61" target="qKpi31XNfzEN19COckJd-63">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1114" y="472" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=1.01;entryY=0.65;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-63" target="qKpi31XNfzEN19COckJd-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1190" y="472" />
-              <mxPoint x="1190" y="253" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qKpi31XNfzEN19COckJd-64">
@@ -115,7 +100,7 @@
             <mxPoint x="766" y="493" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-91" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-90">
+        <mxCell id="qKpi31XNfzEN19COckJd-91" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-90">
           <mxGeometry x="0.2611" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
