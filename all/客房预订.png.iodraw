@@ -113,11 +113,10 @@
         <mxCell id="HPYUSW9BE8mzX17tebgG-43" value="信息更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="437" y="723" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HPYUSW9BE8mzX17tebgG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.646;entryY=0.876;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HPYUSW9BE8mzX17tebgG-38" target="HPYUSW9BE8mzX17tebgG-6">
+        <mxCell id="HPYUSW9BE8mzX17tebgG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HPYUSW9BE8mzX17tebgG-38" target="HPYUSW9BE8mzX17tebgG-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="503" y="530" />
-              <mxPoint x="501" y="530" />
+              <mxPoint x="501" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
