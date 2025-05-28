@@ -32,7 +32,7 @@
           <mxGeometry x="714" y="382" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-9" value="设置价格策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1107" y="359" width="157" height="48" as="geometry" />
+          <mxGeometry x="1076" y="373" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-10" value="用户数据维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1522" y="261" width="156" height="48" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="2356" y="359" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-18" value="提交操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1233" y="458" width="112" height="112" as="geometry" />
+          <mxGeometry x="1611" y="620" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-19" value="更新数据库" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1189" y="650" width="111" height="33" as="geometry" />
