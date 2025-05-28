@@ -73,11 +73,8 @@
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-50" value="权限验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="373.5" y="1214" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-51" value="进入系统" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="194" y="1672" width="96" height="33" as="geometry" />
-        </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-52" value="提示权限错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="346" y="1664" width="157" height="48" as="geometry" />
+          <mxGeometry x="156" y="1353" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-39" target="pWKNH-Ff0Y6X5SGOsbJi-40">
           <mxGeometry relative="1" as="geometry">
@@ -96,7 +93,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-67" value="权限不匹配" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.01;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-50" target="pWKNH-Ff0Y6X5SGOsbJi-52">
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-67" value="权限不匹配" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.01;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-51" target="pWKNH-Ff0Y6X5SGOsbJi-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="379" y="1628" />
@@ -110,6 +107,16 @@
               <mxPoint x="456" y="1453" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.01;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-50" target="pWKNH-Ff0Y6X5SGOsbJi-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="457" y="1300" as="sourcePoint" />
+            <mxPoint x="216" y="1353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-51" value="进入系统" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="373.5" y="1380" width="96" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
