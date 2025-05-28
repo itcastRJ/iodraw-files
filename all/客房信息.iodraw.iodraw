@@ -16,6 +16,14 @@
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-41" value="输入账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="537" y="813" width="125" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-42" target="pWKNH-Ff0Y6X5SGOsbJi-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-71" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pWKNH-Ff0Y6X5SGOsbJi-70">
+          <mxGeometry x="0.4275" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-42" value="账号验证是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="544" y="904" width="112" height="112" as="geometry" />
         </mxCell>
@@ -56,18 +64,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-56" value="账号存在" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-42" target="pWKNH-Ff0Y6X5SGOsbJi-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="1060" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-57" value="账号不存在" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-42" target="pWKNH-Ff0Y6X5SGOsbJi-44">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0013" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="746" y="1060" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-44">
