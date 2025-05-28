@@ -66,6 +66,30 @@
         <mxCell id="PeLt05dRuNyQ23PB_SDT-16" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="416" y="284" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="196" y="370" as="sourcePoint" />
+            <mxPoint x="196" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="206" y="380" as="sourcePoint" />
+            <mxPoint x="206" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="390" as="sourcePoint" />
+            <mxPoint x="216" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="226" y="400" as="sourcePoint" />
+            <mxPoint x="226" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
