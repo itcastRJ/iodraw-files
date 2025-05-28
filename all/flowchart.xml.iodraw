@@ -1,9 +1,108 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="996" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-0" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="204" y="20" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-1" value="用户访问系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="172" y="118" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-2" value="进入注册页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="172" y="217" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-3" value="填写用户名/密码/邮箱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="315" width="222" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-4" value="提交注册信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115" y="414" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-5" value="系统验证信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115" y="512" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-6" value="创建账户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="36" y="633" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-7" value="提示注册成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="731" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-8" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="51" y="830" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-9" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="218" y="633" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-10" value="要求重新填写" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="731" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-0" target="wB2oYnnQB3MhYl9_yTmL-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-1" target="wB2oYnnQB3MhYl9_yTmL-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-2" target="wB2oYnnQB3MhYl9_yTmL-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-3" target="wB2oYnnQB3MhYl9_yTmL-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="193" y="389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-4" target="wB2oYnnQB3MhYl9_yTmL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-16" value="验证通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-5" target="wB2oYnnQB3MhYl9_yTmL-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-6" target="wB2oYnnQB3MhYl9_yTmL-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-7" target="wB2oYnnQB3MhYl9_yTmL-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-19" value="验证失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-5" target="wB2oYnnQB3MhYl9_yTmL-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="296" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-9" target="wB2oYnnQB3MhYl9_yTmL-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="296" y="706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=0.85;entryY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-10" target="wB2oYnnQB3MhYl9_yTmL-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="706" />
+              <mxPoint x="410" y="389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
