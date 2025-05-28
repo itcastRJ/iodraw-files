@@ -16,11 +16,11 @@
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-4" value="填写登录信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="303" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-5" value="验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-5" value="信息验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="156.5" y="421" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-6" value="提交登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="682" width="125" height="48" as="geometry" />
+          <mxGeometry x="63" y="596" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-7" value="提示修正" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="682" width="125" height="48" as="geometry" />
