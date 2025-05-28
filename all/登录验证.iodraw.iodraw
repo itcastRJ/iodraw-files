@@ -11,10 +11,10 @@
           <mxGeometry x="162" y="118" width="104" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eEraNllvZk2jHwmcRz6b-2" value="预订管理&#xa;(查询/调整订单)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="379" y="118" width="192" height="48" as="geometry" />
+          <mxGeometry x="379" y="118" width="130" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eEraNllvZk2jHwmcRz6b-3" value="入住计划&#xa;(行程安排)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="621" y="118" width="214" height="48" as="geometry" />
+          <mxGeometry x="621" y="129" width="161" height="37" as="geometry" />
         </mxCell>
         <mxCell id="eEraNllvZk2jHwmcRz6b-4" value="自动同步云端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="217" width="157" height="48" as="geometry" />
