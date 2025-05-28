@@ -14,10 +14,7 @@
           <mxGeometry x="379" y="118" width="130" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eEraNllvZk2jHwmcRz6b-3" value="入住计划&#xa;(行程安排)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="621" y="129" width="161" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="eEraNllvZk2jHwmcRz6b-4" value="自动同步云端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="365" y="217" width="157" height="48" as="geometry" />
+          <mxGeometry x="621" y="118" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eEraNllvZk2jHwmcRz6b-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEraNllvZk2jHwmcRz6b-0" target="eEraNllvZk2jHwmcRz6b-1">
           <mxGeometry relative="1" as="geometry">
@@ -38,23 +35,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eEraNllvZk2jHwmcRz6b-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0;entryY=0.23;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEraNllvZk2jHwmcRz6b-1" target="eEraNllvZk2jHwmcRz6b-4">
+        <mxCell id="eEraNllvZk2jHwmcRz6b-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0;entryY=0.23;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEraNllvZk2jHwmcRz6b-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="143" y="192" />
             </Array>
+            <mxPoint x="365" y="228.03999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eEraNllvZk2jHwmcRz6b-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEraNllvZk2jHwmcRz6b-2" target="eEraNllvZk2jHwmcRz6b-4">
+        <mxCell id="eEraNllvZk2jHwmcRz6b-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEraNllvZk2jHwmcRz6b-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="443.5" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eEraNllvZk2jHwmcRz6b-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=1;entryY=0.22;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEraNllvZk2jHwmcRz6b-3" target="eEraNllvZk2jHwmcRz6b-4">
+        <mxCell id="eEraNllvZk2jHwmcRz6b-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=1;entryY=0.22;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEraNllvZk2jHwmcRz6b-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="728" y="192" />
             </Array>
+            <mxPoint x="522" y="227.55999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
