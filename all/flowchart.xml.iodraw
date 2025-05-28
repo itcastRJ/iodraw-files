@@ -36,10 +36,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="59" y="346" />
-              <mxPoint x="59" y="459" />
-              <mxPoint x="132" y="459" />
-              <mxPoint x="132" y="570" />
+              <mxPoint x="59" y="570" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-51" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X8WL8T9iB2wwrC-J5VrU-50">
+          <mxGeometry x="-0.8717" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-40" value="输入信息为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
