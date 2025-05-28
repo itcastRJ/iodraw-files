@@ -11,19 +11,19 @@
           <mxGeometry x="148" y="118" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="rZjlM-LkQtOnjbl9vnE9-3" value="选择入住日期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="124" y="350" width="157" height="48" as="geometry" />
+          <mxGeometry x="128" y="216" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="rZjlM-LkQtOnjbl9vnE9-4" value="填写预订信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="124" y="449" width="158" height="48" as="geometry" />
+          <mxGeometry x="128" y="315" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="rZjlM-LkQtOnjbl9vnE9-5" value="提交订单" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="146" y="547" width="112" height="112" as="geometry" />
+          <mxGeometry x="150" y="413" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="rZjlM-LkQtOnjbl9vnE9-6" value="进入支付流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="732" width="158" height="48" as="geometry" />
+          <mxGeometry x="24" y="598" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="rZjlM-LkQtOnjbl9vnE9-7" value="显示错误提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="228" y="732" width="157" height="48" as="geometry" />
+          <mxGeometry x="232" y="598" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="rZjlM-LkQtOnjbl9vnE9-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZjlM-LkQtOnjbl9vnE9-0" target="rZjlM-LkQtOnjbl9vnE9-1">
           <mxGeometry relative="1" as="geometry">
@@ -34,12 +34,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="202" y="217" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rZjlM-LkQtOnjbl9vnE9-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="rZjlM-LkQtOnjbl9vnE9-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="202" y="301" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rZjlM-LkQtOnjbl9vnE9-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZjlM-LkQtOnjbl9vnE9-3" target="rZjlM-LkQtOnjbl9vnE9-4">
@@ -55,14 +49,14 @@
         <mxCell id="rZjlM-LkQtOnjbl9vnE9-13" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZjlM-LkQtOnjbl9vnE9-5" target="rZjlM-LkQtOnjbl9vnE9-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="99" y="696" />
+              <mxPoint x="103" y="562" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rZjlM-LkQtOnjbl9vnE9-14" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZjlM-LkQtOnjbl9vnE9-5" target="rZjlM-LkQtOnjbl9vnE9-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="306" y="696" />
+              <mxPoint x="310" y="562" />
             </Array>
           </mxGeometry>
         </mxCell>
