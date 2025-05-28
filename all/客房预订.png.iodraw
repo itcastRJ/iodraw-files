@@ -11,19 +11,19 @@
           <mxGeometry x="1543" y="74" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-2" value="前台内容管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="261" width="157" height="48" as="geometry" />
+          <mxGeometry x="931" y="261" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-3" value="发布公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="106" y="359" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-4" value="更新酒店介绍" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="281" y="359" width="156" height="48" as="geometry" />
+          <mxGeometry x="699" y="81" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-5" value="调整展示设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="487" y="359" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-6" value="客房配置管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="261" width="158" height="48" as="geometry" />
+          <mxGeometry x="1222" y="267" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-7" value="调整客房分类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="694" y="359" width="157" height="48" as="geometry" />
@@ -73,13 +73,6 @@
         <mxCell id="qKpi31XNfzEN19COckJd-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-0" target="qKpi31XNfzEN19COckJd-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-23" value="内容维护" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.54;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-1" target="qKpi31XNfzEN19COckJd-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="359" y="225" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-2" target="qKpi31XNfzEN19COckJd-3">
