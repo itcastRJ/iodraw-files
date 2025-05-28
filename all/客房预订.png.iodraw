@@ -71,7 +71,7 @@
         <mxCell id="PeLt05dRuNyQ23PB_SDT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="446" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-11" value="管理" style="rhombus;whiteSpace=wrap;html=1;rotation=-75;" vertex="1" parent="1">
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-11" value="管理" style="rhombus;whiteSpace=wrap;html=1;rotation=-75;direction=south;" vertex="1" parent="1">
           <mxGeometry x="283" y="592" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-12" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
