@@ -19,6 +19,9 @@
         <mxCell id="M-tIHR4DIcTfH-L6iPtZ-4" value="支付页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="403" width="125" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="M-tIHR4DIcTfH-L6iPtZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M-tIHR4DIcTfH-L6iPtZ-5" target="M-tIHR4DIcTfH-L6iPtZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M-tIHR4DIcTfH-L6iPtZ-5" value="验证支付是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="101.5" y="487" width="113" height="113" as="geometry" />
         </mxCell>
@@ -46,6 +49,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M-tIHR4DIcTfH-L6iPtZ-25" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="291" y="513.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
