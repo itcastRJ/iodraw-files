@@ -23,6 +23,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qKpi31XNfzEN19COckJd-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1089.2856794084823" y="286.0000348772321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKpi31XNfzEN19COckJd-86" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-85">
+          <mxGeometry x="-0.1585" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-56" value="功能选择" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="812" y="103" width="113" height="113" as="geometry" />
         </mxCell>
@@ -55,18 +65,6 @@
         <mxCell id="qKpi31XNfzEN19COckJd-68" value="用户管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-56" target="qKpi31XNfzEN19COckJd-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-69" value="预订管理" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-56" target="qKpi31XNfzEN19COckJd-60">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1076" y="253" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-84" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-69">
-          <mxGeometry x="0.3791" y="-10" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-57" target="qKpi31XNfzEN19COckJd-61">
