@@ -61,6 +61,10 @@
         <mxCell id="qKpi31XNfzEN19COckJd-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="933.8571254185267" y="170.5714590890068" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1221" y="521" />
+              <mxPoint x="1221" y="171" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-63" value="提示错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
