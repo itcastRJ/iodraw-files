@@ -36,6 +36,11 @@
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-6" value="返回登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="123" y="970" width="157" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="653.1999816894531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-7" value="用户操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="243" y="534" width="124" height="48" as="geometry" />
         </mxCell>
@@ -92,6 +97,9 @@
           <mxGeometry x="-0.0262" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="117" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
