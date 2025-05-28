@@ -75,15 +75,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="206" y="380" as="sourcePoint" />
-            <mxPoint x="206" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PeLt05dRuNyQ23PB_SDT-24">
-          <mxGeometry x="0.15" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="724.5" y="370" as="sourcePoint" />
+            <mxPoint x="724.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
