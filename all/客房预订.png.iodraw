@@ -7,6 +7,9 @@
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-0" value="客房信息页面" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="67" y="20" width="71" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OKwaeD4Sv4wMbtJjY9IG-1" target="OKwaeD4Sv4wMbtJjY9IG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-1" value="写评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="48" y="103" width="109" height="48" as="geometry" />
         </mxCell>
@@ -33,6 +36,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-12" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="42.5" y="225" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
