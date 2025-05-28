@@ -20,16 +20,16 @@
           <mxGeometry x="699" y="81" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-5" value="调整展示设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="487" y="359" width="157" height="48" as="geometry" />
+          <mxGeometry x="703" y="184" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-6" value="客房配置管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1222" y="267" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-7" value="调整客房分类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="694" y="359" width="157" height="48" as="geometry" />
+          <mxGeometry x="708" y="270" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-8" value="更新房间详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="359" width="157" height="48" as="geometry" />
+          <mxGeometry x="714" y="382" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-9" value="设置价格策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1107" y="359" width="157" height="48" as="geometry" />
