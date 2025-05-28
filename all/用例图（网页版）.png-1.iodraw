@@ -11,11 +11,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NKgD-5kaWgIwJ9gR1kiB-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FhjBdXvLvnUG6RFB4L3E-2" target="FhjBdXvLvnUG6RFB4L3E-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="159" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <object label="管理员" id="FhjBdXvLvnUG6RFB4L3E-2">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-            <mxGeometry x="89" y="231" width="30" height="60" as="geometry" />
+            <mxGeometry x="42" y="228" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-3" value="个人中心管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
