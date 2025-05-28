@@ -10,6 +10,9 @@
         <mxCell id="iUty1Z_hAGKBscucHwT4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iUty1Z_hAGKBscucHwT4-1" target="iUty1Z_hAGKBscucHwT4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iUty1Z_hAGKBscucHwT4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iUty1Z_hAGKBscucHwT4-1" target="iUty1Z_hAGKBscucHwT4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iUty1Z_hAGKBscucHwT4-1" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="352" y="103" width="113" height="113" as="geometry" />
         </mxCell>
@@ -31,20 +34,6 @@
         <mxCell id="iUty1Z_hAGKBscucHwT4-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iUty1Z_hAGKBscucHwT4-0" target="iUty1Z_hAGKBscucHwT4-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iUty1Z_hAGKBscucHwT4-11" value="预订处理" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iUty1Z_hAGKBscucHwT4-1" target="iUty1Z_hAGKBscucHwT4-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="305" y="253" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iUty1Z_hAGKBscucHwT4-12" value="入住安排" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iUty1Z_hAGKBscucHwT4-1" target="iUty1Z_hAGKBscucHwT4-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="512" y="253" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iUty1Z_hAGKBscucHwT4-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.21;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iUty1Z_hAGKBscucHwT4-2" target="iUty1Z_hAGKBscucHwT4-5">
@@ -79,11 +68,6 @@
               <mxPoint x="550" y="472" />
             </Array>
             <mxPoint x="584" y="508" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iUty1Z_hAGKBscucHwT4-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=1;entryY=0.72;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iUty1Z_hAGKBscucHwT4-4" target="iUty1Z_hAGKBscucHwT4-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iUty1Z_hAGKBscucHwT4-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iUty1Z_hAGKBscucHwT4-6" target="iUty1Z_hAGKBscucHwT4-8">
