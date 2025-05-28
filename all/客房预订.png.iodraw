@@ -10,9 +10,6 @@
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-1" value="写评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="48" y="103" width="109" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-2" value="选评分+填内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="202" width="165" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-3" value="提交" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="62" y="323" width="80" height="80" as="geometry" />
         </mxCell>
@@ -27,28 +24,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OKwaeD4Sv4wMbtJjY9IG-1" target="OKwaeD4Sv4wMbtJjY9IG-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OKwaeD4Sv4wMbtJjY9IG-2" target="OKwaeD4Sv4wMbtJjY9IG-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="83" y="286" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-9" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OKwaeD4Sv4wMbtJjY9IG-3" target="OKwaeD4Sv4wMbtJjY9IG-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-10" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0.55;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OKwaeD4Sv4wMbtJjY9IG-3" target="OKwaeD4Sv4wMbtJjY9IG-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="122" y="286" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.02;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OKwaeD4Sv4wMbtJjY9IG-4" target="OKwaeD4Sv4wMbtJjY9IG-5">
