@@ -28,6 +28,11 @@
             <mxPoint x="223.4000244140625" y="969.2000122070312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kw98oS-pb--1LQT985f9-22" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kw98oS-pb--1LQT985f9-21">
+          <mxGeometry x="0.1446" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kw98oS-pb--1LQT985f9-3" value="数据返回？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="278.5" y="769" width="129" height="129" as="geometry" />
         </mxCell>
@@ -43,13 +48,6 @@
         <mxCell id="kw98oS-pb--1LQT985f9-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-0" target="kw98oS-pb--1LQT985f9-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-11" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-3" target="kw98oS-pb--1LQT985f9-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="370" y="936" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kw98oS-pb--1LQT985f9-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-4" target="kw98oS-pb--1LQT985f9-6">
