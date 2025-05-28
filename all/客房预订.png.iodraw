@@ -108,7 +108,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HPYUSW9BE8mzX17tebgG-38" target="HPYUSW9BE8mzX17tebgG-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="497" y="680" />
+              <mxPoint x="497" y="700" />
+              <mxPoint x="417" y="700" />
+              <mxPoint x="417" y="530" />
+              <mxPoint x="485" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-38" value="系统验证" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="437" y="620" width="120" height="60" as="geometry" />
