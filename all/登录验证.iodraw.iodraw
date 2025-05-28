@@ -22,7 +22,7 @@
         <mxCell id="qe3EaIV57yej8wKK-WfM-5" value="订单处理&#xa;• 审核请求&#xa;• 安排入住" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="896" y="305" width="238" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="qe3EaIV57yej8wKK-WfM-6" value="操作生效" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qe3EaIV57yej8wKK-WfM-6" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="421" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qe3EaIV57yej8wKK-WfM-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qe3EaIV57yej8wKK-WfM-0" target="qe3EaIV57yej8wKK-WfM-1">
@@ -62,13 +62,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="144" y="396" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qe3EaIV57yej8wKK-WfM-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qe3EaIV57yej8wKK-WfM-3" target="qe3EaIV57yej8wKK-WfM-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="438" y="396" />
             </Array>
           </mxGeometry>
         </mxCell>
