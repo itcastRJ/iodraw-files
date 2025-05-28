@@ -55,13 +55,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pWKNH-Ff0Y6X5SGOsbJi-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="131.5" y="673" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-26" value="进入系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="64" y="612" width="118" height="38" as="geometry" />
         </mxCell>
       </root>
