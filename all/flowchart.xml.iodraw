@@ -4,13 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="X8WL8T9iB2wwrC-J5VrU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="201.5" y="214.79998779296875" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-0" value="开始" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="134" y="29" width="93" height="48" as="geometry" />
+          <mxGeometry x="155" y="87" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-2" value="用户输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="92" y="217" width="220" height="48" as="geometry" />
@@ -54,12 +49,6 @@
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-9" value="注销用户会话" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="227" y="872" width="157" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="X8WL8T9iB2wwrC-J5VrU-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="202" y="118" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-2" target="X8WL8T9iB2wwrC-J5VrU-3">
           <mxGeometry relative="1" as="geometry">
