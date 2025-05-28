@@ -16,7 +16,7 @@
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-41" value="输入账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="537" y="813" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-42" value="账号验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-42" value="账号验证是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="544" y="904" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-43" value="输入密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
