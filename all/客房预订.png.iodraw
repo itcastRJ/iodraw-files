@@ -63,7 +63,7 @@
           <mxGeometry x="581" y="345" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-13" value="退出" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="328" y="955" width="56" height="33" as="geometry" />
+          <mxGeometry x="462" y="902" width="56" height="33" as="geometry" />
         </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HPYUSW9BE8mzX17tebgG-0" target="HPYUSW9BE8mzX17tebgG-1">
           <mxGeometry relative="1" as="geometry">
@@ -101,6 +101,9 @@
         </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-38" value="系统验证" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="437" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPYUSW9BE8mzX17tebgG-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="437" y="723" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
