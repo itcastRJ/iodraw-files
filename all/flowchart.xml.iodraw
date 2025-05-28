@@ -27,10 +27,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M-tIHR4DIcTfH-L6iPtZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M-tIHR4DIcTfH-L6iPtZ-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="81.88237448299628" y="423.2941248276654" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="M-tIHR4DIcTfH-L6iPtZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M-tIHR4DIcTfH-L6iPtZ-5" target="M-tIHR4DIcTfH-L6iPtZ-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M-tIHR4DIcTfH-L6iPtZ-5" value="验证支付是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="101.5" y="487" width="113" height="113" as="geometry" />
