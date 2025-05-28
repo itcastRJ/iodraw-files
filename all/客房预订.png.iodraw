@@ -307,13 +307,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-85" value="客房名称" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="769.9982854123025" y="2408.9971862576144" width="74" height="36" as="geometry" />
+          <mxGeometry x="780.9982854123025" y="2409.9971862576144" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-86" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-82" target="PeLt05dRuNyQ23PB_SDT-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-87" value="客房图片" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="2372.99523695817" width="74" height="36" as="geometry" />
+          <mxGeometry x="732" y="2354.99523695817" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-88" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-82" target="PeLt05dRuNyQ23PB_SDT-87">
           <mxGeometry relative="1" as="geometry" />
@@ -325,13 +325,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-91" value="酒店地址" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="584.0030484541326" y="2282.9982854123027" width="74" height="36" as="geometry" />
+          <mxGeometry x="593.0030484541326" y="2277.9982854123027" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-92" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-82" target="PeLt05dRuNyQ23PB_SDT-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-93" value="手机号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520.0010991546881" y="2247" width="64" height="36" as="geometry" />
+          <mxGeometry x="513.0010991546881" y="2247" width="64" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-94" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-82" target="PeLt05dRuNyQ23PB_SDT-93">
           <mxGeometry relative="1" as="geometry" />
