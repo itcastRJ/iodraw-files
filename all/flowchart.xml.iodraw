@@ -39,8 +39,11 @@
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-8" value="用户选择退出" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="233" y="655" width="144" height="144" as="geometry" />
         </mxCell>
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-9" target="X8WL8T9iB2wwrC-J5VrU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-9" value="注销用户会话" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="227" y="872" width="157" height="48" as="geometry" />
+          <mxGeometry x="227" y="872" width="157" height="45" as="geometry" />
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="1069" width="94" height="48" as="geometry" />
@@ -89,13 +92,6 @@
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-8" target="X8WL8T9iB2wwrC-J5VrU-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X8WL8T9iB2wwrC-J5VrU-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.83;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-9" target="X8WL8T9iB2wwrC-J5VrU-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="305" y="945" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-6" target="X8WL8T9iB2wwrC-J5VrU-10">
