@@ -95,8 +95,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wB2oYnnQB3MhYl9_yTmL-21" value="" style="startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=0.85;entryY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-10" target="wB2oYnnQB3MhYl9_yTmL-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-21" value="" style="startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=0.85;entryY=1.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-10" target="wB2oYnnQB3MhYl9_yTmL-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="381" y="547" />
+              <mxPoint x="542" y="547" />
+              <mxPoint x="542" y="363" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
