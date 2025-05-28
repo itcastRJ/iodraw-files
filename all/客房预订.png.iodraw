@@ -105,10 +105,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-61">
+        <mxCell id="qKpi31XNfzEN19COckJd-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-61" target="qKpi31XNfzEN19COckJd-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="746" y="427" as="sourcePoint" />
             <mxPoint x="796" y="377" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKpi31XNfzEN19COckJd-93" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-92">
+          <mxGeometry x="-0.068" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
