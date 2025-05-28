@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iUty1Z_hAGKBscucHwT4-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUty1Z_hAGKBscucHwT4-29">
+        <mxCell id="iUty1Z_hAGKBscucHwT4-32" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUty1Z_hAGKBscucHwT4-29">
           <mxGeometry x="0.0129" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -46,7 +46,7 @@
           <mxGeometry x="384" y="496" width="64" height="33" as="geometry" />
         </mxCell>
         <mxCell id="iUty1Z_hAGKBscucHwT4-8" value="退出" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="388" y="585" width="56" height="33" as="geometry" />
+          <mxGeometry x="392" y="572" width="56" height="33" as="geometry" />
         </mxCell>
         <mxCell id="iUty1Z_hAGKBscucHwT4-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iUty1Z_hAGKBscucHwT4-0" target="iUty1Z_hAGKBscucHwT4-1">
           <mxGeometry relative="1" as="geometry">
