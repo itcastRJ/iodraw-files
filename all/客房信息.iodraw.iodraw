@@ -53,7 +53,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kw98oS-pb--1LQT985f9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-2" target="kw98oS-pb--1LQT985f9-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="758" />
+              <mxPoint x="342" y="758" />
+              <mxPoint x="342" y="782" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
