@@ -17,7 +17,7 @@
           <mxGeometry x="150" y="303" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-5" value="验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="497" width="112" height="112" as="geometry" />
+          <mxGeometry x="156.5" y="421" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-6" value="提交登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="682" width="125" height="48" as="geometry" />
@@ -58,13 +58,6 @@
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-4" target="pWKNH-Ff0Y6X5SGOsbJi-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-17" value="格式正确" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-5" target="pWKNH-Ff0Y6X5SGOsbJi-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="132" y="646" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-18" value="格式错误" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-5" target="pWKNH-Ff0Y6X5SGOsbJi-7">
