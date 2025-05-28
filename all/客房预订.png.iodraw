@@ -38,7 +38,7 @@
           <mxGeometry x="1522" y="261" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-11" value="查询用户信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1314" y="359" width="157" height="48" as="geometry" />
+          <mxGeometry x="1313" y="365" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-12" value="修改用户权限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1521" y="359" width="158" height="48" as="geometry" />
