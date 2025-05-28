@@ -1,70 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1172" dy="288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="kw98oS-pb--1LQT985f9-0" value="主界面" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="306" y="490" width="71" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="342" y="676.3999938964844" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-1" value="点击酒店简介" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="264" y="573" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="343" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-2" value="发送数据请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="264" y="678" width="158" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="223.4000244140625" y="969.2000122070312" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-22" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kw98oS-pb--1LQT985f9-21">
-          <mxGeometry x="0.1446" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="474.5999755859375" y="970.7999877929688" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-24" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kw98oS-pb--1LQT985f9-23">
-          <mxGeometry x="0.2094" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-3" value="数据返回？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="278.5" y="769" width="129" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-4" value="展示酒店详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="972" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-5" value="显示加载错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="392" y="972" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-6" value="浏览完成" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="194" y="1070" width="89" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-0" target="kw98oS-pb--1LQT985f9-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kw98oS-pb--1LQT985f9-4" target="kw98oS-pb--1LQT985f9-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
