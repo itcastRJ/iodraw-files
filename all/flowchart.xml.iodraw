@@ -64,12 +64,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wB2oYnnQB3MhYl9_yTmL-16" value="验证通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-5" target="wB2oYnnQB3MhYl9_yTmL-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="98" y="597" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-16" value="验证通过" style="startArrow=none;endArrow=block;exitX=0.26;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-5" target="wB2oYnnQB3MhYl9_yTmL-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wB2oYnnQB3MhYl9_yTmL-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-6" target="wB2oYnnQB3MhYl9_yTmL-7">
           <mxGeometry relative="1" as="geometry">
@@ -81,12 +77,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wB2oYnnQB3MhYl9_yTmL-19" value="验证失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-5" target="wB2oYnnQB3MhYl9_yTmL-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="296" y="597" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="wB2oYnnQB3MhYl9_yTmL-19" value="验证失败" style="startArrow=none;endArrow=block;exitX=0.76;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-5" target="wB2oYnnQB3MhYl9_yTmL-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wB2oYnnQB3MhYl9_yTmL-20" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wB2oYnnQB3MhYl9_yTmL-9" target="wB2oYnnQB3MhYl9_yTmL-10">
           <mxGeometry relative="1" as="geometry" />
