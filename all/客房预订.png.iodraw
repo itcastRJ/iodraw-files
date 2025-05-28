@@ -66,7 +66,7 @@
         <mxCell id="PeLt05dRuNyQ23PB_SDT-16" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="416" y="284" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-15">
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-15" target="PeLt05dRuNyQ23PB_SDT-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="196" y="370" as="sourcePoint" />
             <mxPoint x="196" y="450" as="targetPoint" />
