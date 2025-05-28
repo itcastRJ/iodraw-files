@@ -71,7 +71,7 @@
           <mxGeometry x="917" y="497" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-64" value="退出" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="709" y="607" width="56" height="33" as="geometry" />
+          <mxGeometry x="754" y="604" width="56" height="33" as="geometry" />
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-55" target="qKpi31XNfzEN19COckJd-56">
           <mxGeometry relative="1" as="geometry">
@@ -83,7 +83,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qKpi31XNfzEN19COckJd-64">
+        <mxCell id="qKpi31XNfzEN19COckJd-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-78" target="qKpi31XNfzEN19COckJd-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="737" y="549" as="sourcePoint" />
