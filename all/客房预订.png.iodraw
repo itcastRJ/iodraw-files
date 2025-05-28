@@ -19,9 +19,6 @@
         <mxCell id="PeLt05dRuNyQ23PB_SDT-6" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="126" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="397" y="299" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397" y="436" width="80" height="80" as="geometry" />
         </mxCell>
@@ -31,7 +28,7 @@
         <mxCell id="PeLt05dRuNyQ23PB_SDT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="446" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-11" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="592" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -39,6 +36,15 @@
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="403" y="733" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-14" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293" y="602" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-15" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303" y="612" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-16" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="622" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
