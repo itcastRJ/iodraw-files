@@ -57,6 +57,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PeLt05dRuNyQ23PB_SDT-22">
+          <mxGeometry x="-0.0493" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-6" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="126" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -90,10 +95,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-33" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PeLt05dRuNyQ23PB_SDT-23">
+          <mxGeometry x="-0.038" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="724.5" y="370" as="sourcePoint" />
             <mxPoint x="725" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-32" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PeLt05dRuNyQ23PB_SDT-24">
+          <mxGeometry x="-0.1146" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-16" target="PeLt05dRuNyQ23PB_SDT-6">
