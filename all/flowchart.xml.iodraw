@@ -4,8 +4,13 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201.5" y="214.79998779296875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-0" value="开始" style="whiteSpace=wrap;strokeWidth=2;rounded=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="155" y="39" width="93" height="48" as="geometry" />
+          <mxGeometry x="134" y="29" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-2" value="用户输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="92" y="217" width="220" height="48" as="geometry" />
