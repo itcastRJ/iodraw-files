@@ -13,23 +13,14 @@
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-2" value="输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="92" y="217" width="220" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="X8WL8T9iB2wwrC-J5VrU-3" value="验证用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="107" y="315" width="189" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="X8WL8T9iB2wwrC-J5VrU-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-2" target="X8WL8T9iB2wwrC-J5VrU-3">
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="201.5" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X8WL8T9iB2wwrC-J5VrU-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="201.5" y="1018" as="sourcePoint" />
-            <mxPoint x="202" y="1069" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X8WL8T9iB2wwrC-J5VrU-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="144" y="1071" width="115" height="55" as="geometry" />
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="137" y="341" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
