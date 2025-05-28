@@ -21,7 +21,7 @@
             <mxPoint x="121.00003051757812" y="638" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-5" value="验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-5" value="验证信息是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="156.5" y="421" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-11" value="进入系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
