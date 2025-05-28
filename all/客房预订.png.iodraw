@@ -18,7 +18,7 @@
         <mxCell id="qKpi31XNfzEN19COckJd-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-56" target="qKpi31XNfzEN19COckJd-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-83" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-82">
+        <mxCell id="qKpi31XNfzEN19COckJd-83" value="客房管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-82">
           <mxGeometry x="-0.1425" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -62,6 +62,11 @@
             <Array as="points">
               <mxPoint x="1076" y="253" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKpi31XNfzEN19COckJd-84" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-69">
+          <mxGeometry x="0.3791" y="-10" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-57" target="qKpi31XNfzEN19COckJd-61">
