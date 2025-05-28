@@ -34,7 +34,7 @@
         <mxCell id="HPYUSW9BE8mzX17tebgG-7" value="更新入住日期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="328" y="471" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="HPYUSW9BE8mzX17tebgG-8" value="确认取消" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HPYUSW9BE8mzX17tebgG-8" value="取消订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="525" y="468" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-9" value="编辑计划详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
