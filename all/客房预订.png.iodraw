@@ -301,7 +301,7 @@
           <mxGeometry x="530" y="2676.9982854123027" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-83" value="用户名" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="774" y="2492.9982854123027" width="64" height="36" as="geometry" />
+          <mxGeometry x="802" y="2468.9982854123027" width="64" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-84" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-82" target="PeLt05dRuNyQ23PB_SDT-83">
           <mxGeometry relative="1" as="geometry" />
@@ -349,13 +349,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-99" value="是否支付" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="774.0030484541326" y="2552.9982854123027" width="74" height="36" as="geometry" />
+          <mxGeometry x="832.0030484541326" y="2534.9982854123027" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-100" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-82" target="PeLt05dRuNyQ23PB_SDT-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-101" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="790.0028137423856" y="2613.0010991546883" width="74" height="36" as="geometry" />
+          <mxGeometry x="842.0028137423856" y="2615.0010991546883" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-102" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-82" target="PeLt05dRuNyQ23PB_SDT-101">
           <mxGeometry relative="1" as="geometry" />
@@ -394,6 +394,51 @@
           <mxGeometry x="373.9971862576143" y="2283.0010991546883" width="54" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-114" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-82" target="PeLt05dRuNyQ23PB_SDT-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-115" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="647" y="3296.0028137423856" width="54" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-116" value="用户名" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="407" y="3164.0928137423857" width="64" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-117" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-115" target="PeLt05dRuNyQ23PB_SDT-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-118" value="年龄" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470.9982854123025" y="3128.0917145876974" width="54" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-119" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-115" target="PeLt05dRuNyQ23PB_SDT-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-120" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="525" y="3092.089765288253" width="74" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-121" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-115" target="PeLt05dRuNyQ23PB_SDT-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-122" value="密码" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="617.0028137423857" y="3066" width="54" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-123" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-115" target="PeLt05dRuNyQ23PB_SDT-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-124" value="手机号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="697.0030484541327" y="3066.0028137423856" width="64" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-125" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-115" target="PeLt05dRuNyQ23PB_SDT-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-126" value="姓名" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="767" y="3066.0028137423856" width="54" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-127" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-115" target="PeLt05dRuNyQ23PB_SDT-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-128" value="性别" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="827.0010991546882" y="3086.001099154688" width="54" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-129" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PeLt05dRuNyQ23PB_SDT-115" target="PeLt05dRuNyQ23PB_SDT-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
