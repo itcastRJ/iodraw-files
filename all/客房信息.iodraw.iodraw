@@ -86,14 +86,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-62" value="密码正确" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pWKNH-Ff0Y6X5SGOsbJi-48">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="337" y="1344" />
-            </Array>
-            <mxPoint x="363.4200000000003" y="1288.92" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=1;entryY=0.9;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
