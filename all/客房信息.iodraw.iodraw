@@ -24,6 +24,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="756.7059110753678" y="1090.5882568359375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-42" value="账号验证是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="544" y="904" width="112" height="112" as="geometry" />
         </mxCell>
@@ -62,14 +67,6 @@
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-40" target="pWKNH-Ff0Y6X5SGOsbJi-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-57" value="账号不存在" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-42" target="pWKNH-Ff0Y6X5SGOsbJi-44">
-          <mxGeometry x="0.0013" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="746" y="1060" />
-            </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-44">
