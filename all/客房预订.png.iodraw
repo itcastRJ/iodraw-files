@@ -20,12 +20,15 @@
           <mxGeometry x="62.5" y="196" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-5" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="74" y="559" width="57" height="33" as="geometry" />
+          <mxGeometry x="71" y="464" width="57" height="33" as="geometry" />
         </mxCell>
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OKwaeD4Sv4wMbtJjY9IG-0" target="OKwaeD4Sv4wMbtJjY9IG-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OKwaeD4Sv4wMbtJjY9IG-15" target="OKwaeD4Sv4wMbtJjY9IG-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-15" value="内容审核" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="42.5" y="320" width="120" height="39" as="geometry" />
