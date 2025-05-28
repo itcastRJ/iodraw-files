@@ -59,20 +59,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HPYUSW9BE8mzX17tebgG-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HPYUSW9BE8mzX17tebgG-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="99" y="646" />
-            </Array>
-            <mxPoint x="340.25" y="714.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-27" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="HPYUSW9BE8mzX17tebgG-11">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0389" y="6" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="356" y="820" />
             </Array>
             <mxPoint x="371.27272727272725" y="770.2727272727273" as="sourcePoint" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-28" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.65;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="HPYUSW9BE8mzX17tebgG-12">
