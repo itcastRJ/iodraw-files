@@ -15,6 +15,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qKpi31XNfzEN19COckJd-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-56" target="qKpi31XNfzEN19COckJd-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qKpi31XNfzEN19COckJd-83" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKpi31XNfzEN19COckJd-82">
+          <mxGeometry x="-0.1425" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-56" value="功能选择" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="812" y="103" width="113" height="113" as="geometry" />
         </mxCell>
@@ -115,6 +123,12 @@
         </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-78" value="数据跟新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="671" y="505" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qKpi31XNfzEN19COckJd-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="746" y="427" as="sourcePoint" />
+            <mxPoint x="796" y="377" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
