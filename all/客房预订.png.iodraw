@@ -75,25 +75,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-27" value="客房管理" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-1" target="qKpi31XNfzEN19COckJd-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="979" y="225" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-6" target="qKpi31XNfzEN19COckJd-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="772" y="334" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-6" target="qKpi31XNfzEN19COckJd-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qKpi31XNfzEN19COckJd-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-6" target="qKpi31XNfzEN19COckJd-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -148,13 +129,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2435" y="334" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qKpi31XNfzEN19COckJd-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.37;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qKpi31XNfzEN19COckJd-8" target="qKpi31XNfzEN19COckJd-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="979" y="433" />
             </Array>
           </mxGeometry>
         </mxCell>
