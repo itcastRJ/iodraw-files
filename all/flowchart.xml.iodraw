@@ -22,9 +22,6 @@
         <mxCell id="M-tIHR4DIcTfH-L6iPtZ-5" value="验证支付是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="101.5" y="487" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="M-tIHR4DIcTfH-L6iPtZ-8" value="预订成功" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="631" width="95" height="33" as="geometry" />
-        </mxCell>
         <mxCell id="M-tIHR4DIcTfH-L6iPtZ-9" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="129" y="704" width="57" height="33" as="geometry" />
         </mxCell>
@@ -53,9 +50,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M-tIHR4DIcTfH-L6iPtZ-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M-tIHR4DIcTfH-L6iPtZ-8" target="M-tIHR4DIcTfH-L6iPtZ-9">
+        <mxCell id="M-tIHR4DIcTfH-L6iPtZ-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="M-tIHR4DIcTfH-L6iPtZ-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="157.5" y="663.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
