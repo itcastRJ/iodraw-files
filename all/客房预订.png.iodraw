@@ -7,10 +7,10 @@
         <mxCell id="PeLt05dRuNyQ23PB_SDT-1" value="员工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="126" y="126" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-2" value="入住信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="126" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PeLt05dRuNyQ23PB_SDT-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PeLt05dRuNyQ23PB_SDT-4" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397" y="116" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PeLt05dRuNyQ23PB_SDT-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
