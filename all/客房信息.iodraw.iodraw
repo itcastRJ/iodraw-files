@@ -70,8 +70,10 @@
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-49" value="提示密码错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="578" y="1387.5" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-50" target="pWKNH-Ff0Y6X5SGOsbJi-51">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1398" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-50" value="权限验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="373.5" y="1214" width="113" height="113" as="geometry" />
@@ -89,23 +91,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-67" value="权限不匹配" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.01;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-51" target="pWKNH-Ff0Y6X5SGOsbJi-52">
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-67" value="权限不匹配" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.01;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pWKNH-Ff0Y6X5SGOsbJi-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="379" y="1628" />
             </Array>
+            <mxPoint x="475.1764705882356" y="1430.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0;entryX=0.87;entryY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pWKNH-Ff0Y6X5SGOsbJi-52" target="pWKNH-Ff0Y6X5SGOsbJi-48">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="456" y="1628" />
-              <mxPoint x="456" y="1453" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-51" value="进入系统" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="373.5" y="1395" width="96" height="33" as="geometry" />
+        <mxCell id="pWKNH-Ff0Y6X5SGOsbJi-82" value="进入系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="1401" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
