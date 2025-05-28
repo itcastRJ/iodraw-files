@@ -72,6 +72,14 @@
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-54" value="用户操作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="352" y="314" width="110" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="X8WL8T9iB2wwrC-J5VrU-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X8WL8T9iB2wwrC-J5VrU-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280.20001220703125" y="573.2000122070312" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="334" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X8WL8T9iB2wwrC-J5VrU-61" value="选择退出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="537" y="303.5" width="120" height="60" as="geometry" />
         </mxCell>
