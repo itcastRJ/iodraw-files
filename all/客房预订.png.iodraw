@@ -11,10 +11,10 @@
           <mxGeometry x="423" y="103" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-2" value="修改个人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="74" y="282" width="158" height="48" as="geometry" />
+          <mxGeometry x="196" y="248" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-3" value="查看订单状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="306" y="289" width="156" height="48" as="geometry" />
+          <mxGeometry x="407" y="252" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HPYUSW9BE8mzX17tebgG-4" value="管理行程安排" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="593" y="420" width="156" height="48" as="geometry" />
