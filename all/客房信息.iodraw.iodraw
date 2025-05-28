@@ -38,7 +38,7 @@
             <mxPoint x="474.5999755859375" y="970.7999877929688" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kw98oS-pb--1LQT985f9-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kw98oS-pb--1LQT985f9-23">
+        <mxCell id="kw98oS-pb--1LQT985f9-24" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kw98oS-pb--1LQT985f9-23">
           <mxGeometry x="0.2094" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
