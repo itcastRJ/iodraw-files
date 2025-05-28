@@ -102,7 +102,7 @@
         <mxCell id="HPYUSW9BE8mzX17tebgG-38" value="系统验证" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="437" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HPYUSW9BE8mzX17tebgG-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HPYUSW9BE8mzX17tebgG-43" value="信息更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="437" y="723" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
