@@ -32,17 +32,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OKwaeD4Sv4wMbtJjY9IG-15" target="OKwaeD4Sv4wMbtJjY9IG-23">
+        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OKwaeD4Sv4wMbtJjY9IG-15" target="OKwaeD4Sv4wMbtJjY9IG-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OKwaeD4Sv4wMbtJjY9IG-25">
+          <mxGeometry x="-0.0581" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-15" value="检验内容是否合格" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="42.5" y="320" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="OKwaeD4Sv4wMbtJjY9IG-20" value="发布" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="42.5" y="428.5" width="116.5" height="39.5" as="geometry" />
-        </mxCell>
-        <mxCell id="OKwaeD4Sv4wMbtJjY9IG-23" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="242.5" y="309.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
