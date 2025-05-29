@@ -4,6 +4,105 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-0" value="用户功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="154" width="609" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-1" value="管理员功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="649" y="154" width="993" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-2" value="基于Java的酒店房间管理与客户入住登记系统设计与实现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="617" y="20" width="253" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-3" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1083" y="179" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-4" value="客户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="684" y="277" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-5" value="客房类型管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="277" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-6" value="客房信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1067" y="277" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-7" value="客服退订管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1275" y="277" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-8" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1483" y="277" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-9" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="279" y="179" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-10" value="客房预订管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="55" y="277" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-11" value="客房退订管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="263" y="277" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-12" value="系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="277" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-13" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-2" target="ocS_vI-odSd3o1jIIrCK-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-14" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-2" target="ocS_vI-odSd3o1jIIrCK-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-15" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-1" target="ocS_vI-odSd3o1jIIrCK-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-16" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-1" target="ocS_vI-odSd3o1jIIrCK-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-17" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-1" target="ocS_vI-odSd3o1jIIrCK-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-18" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-1" target="ocS_vI-odSd3o1jIIrCK-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-19" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-1" target="ocS_vI-odSd3o1jIIrCK-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-20" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-1" target="ocS_vI-odSd3o1jIIrCK-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-21" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-0" target="ocS_vI-odSd3o1jIIrCK-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-22" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-0" target="ocS_vI-odSd3o1jIIrCK-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-23" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-0" target="ocS_vI-odSd3o1jIIrCK-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocS_vI-odSd3o1jIIrCK-24" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocS_vI-odSd3o1jIIrCK-0" target="ocS_vI-odSd3o1jIIrCK-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
