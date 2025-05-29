@@ -32,13 +32,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N4BJ3dmwn5PneUUwPMEH-24" value="酒店地址" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="203.92304845413264" y="40" width="74" height="36" as="geometry" />
+          <mxGeometry x="633.0030484541326" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="N4BJ3dmwn5PneUUwPMEH-25" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4BJ3dmwn5PneUUwPMEH-15" target="N4BJ3dmwn5PneUUwPMEH-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N4BJ3dmwn5PneUUwPMEH-26" value="手机号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220.9110991546882" y="68.94171458769749" width="64" height="36" as="geometry" />
+          <mxGeometry x="594.0010991546882" y="-79.99828541230251" width="64" height="36" as="geometry" />
         </mxCell>
         <mxCell id="N4BJ3dmwn5PneUUwPMEH-27" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4BJ3dmwn5PneUUwPMEH-15" target="N4BJ3dmwn5PneUUwPMEH-26">
           <mxGeometry relative="1" as="geometry" />
