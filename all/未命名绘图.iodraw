@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="ocS_vI-odSd3o1jIIrCK-2" value="基于Java的酒店房间管理与客户入住登记系统设计与实现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="852" y="-68" width="253" height="84" as="geometry" />
+          <mxGeometry x="523" y="-30" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="ocS_vI-odSd3o1jIIrCK-3" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1083" y="179" width="126" height="48" as="geometry" />
