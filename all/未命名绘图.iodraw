@@ -37,30 +37,6 @@
         <mxCell id="ocS_vI-odSd3o1jIIrCK-12" value="系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="277" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ocS_vI-odSd3o1jIIrCK-15" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ocS_vI-odSd3o1jIIrCK-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1146.4949494949506" y="154" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ocS_vI-odSd3o1jIIrCK-18" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ocS_vI-odSd3o1jIIrCK-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1146.5154639175253" y="351" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ocS_vI-odSd3o1jIIrCK-19" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ocS_vI-odSd3o1jIIrCK-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1568.9484536082473" y="351" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ocS_vI-odSd3o1jIIrCK-20" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ocS_vI-odSd3o1jIIrCK-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1642" y="312.70062499999995" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
