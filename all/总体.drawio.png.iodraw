@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-28" value="客房预订" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="834.0017145876975" y="2455.9982854123027" width="74" height="36" as="geometry" />
+          <mxGeometry x="851.0017145876975" y="2473.9982854123027" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-29" value="预定编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="2354.9971862576144" width="74" height="36" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-47" value="客房价格" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1133" y="2431.999384566991" width="54" height="36" as="geometry" />
+          <mxGeometry x="1105" y="2426.999384566991" width="54" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-48" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
