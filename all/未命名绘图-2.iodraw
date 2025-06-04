@@ -1,37 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="FH3dEarlmRMGrQ7HY8Sj">
-    <mxGraphModel dx="996" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="596" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4ZFWwZbFc8bXz8SJrsqS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.404;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" parent="1" source="4ZFWwZbFc8bXz8SJrsqS-3" target="4ZFWwZbFc8bXz8SJrsqS-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="90" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="452" y="83" />
-              <mxPoint x="480" y="83" />
-              <mxPoint x="480" y="110" />
-              <mxPoint x="259" y="110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4ZFWwZbFc8bXz8SJrsqS-3" value="基于Java的酒店房间管理与客户入住登记系统设计与实现" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="350" width="253" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="4ZFWwZbFc8bXz8SJrsqS-8" value="客服退订管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="753" y="260" width="30" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-9" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1483" y="277" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4ZFWwZbFc8bXz8SJrsqS-10" value="用户个人中心" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="180" y="140" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4ZFWwZbFc8bXz8SJrsqS-11" value="客房预订管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="160" y="260" width="40" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="4ZFWwZbFc8bXz8SJrsqS-12" value="客房退订管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="240" y="260" width="37" height="190" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-21" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" parent="1" target="4ZFWwZbFc8bXz8SJrsqS-9" edge="1">
           <mxGeometry relative="1" as="geometry">
