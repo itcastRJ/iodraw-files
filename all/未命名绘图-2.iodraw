@@ -65,13 +65,13 @@
             <mxPoint x="1642" y="312.70062499999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e3QRpiQtjtzMrdXEapEY-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="e3QRpiQtjtzMrdXEapEY-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="535.9989008453118" y="1109" width="54" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-2" value="用户名" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="691.9989008453118" y="1049" width="64" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="e3QRpiQtjtzMrdXEapEY-3" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e3QRpiQtjtzMrdXEapEY-1" target="e3QRpiQtjtzMrdXEapEY-2">
+        <mxCell id="e3QRpiQtjtzMrdXEapEY-3" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e3QRpiQtjtzMrdXEapEY-1" target="e3QRpiQtjtzMrdXEapEY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-4" value="年龄" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
