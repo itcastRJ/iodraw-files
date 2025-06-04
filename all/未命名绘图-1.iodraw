@@ -14,10 +14,10 @@
           <mxGeometry x="540" y="260" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-6" value="客房类型管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="610" y="260" width="30" height="200" as="geometry" />
+          <mxGeometry x="610" y="260" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-7" value="客房信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="300" width="33" height="210" as="geometry" />
+          <mxGeometry x="680" y="260" width="33" height="190" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-8" value="客服退订管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="797" y="300" width="30" height="210" as="geometry" />
