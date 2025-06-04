@@ -4,8 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4ZFWwZbFc8bXz8SJrsqS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZFWwZbFc8bXz8SJrsqS-3" target="4ZFWwZbFc8bXz8SJrsqS-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4ZFWwZbFc8bXz8SJrsqS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4ZFWwZbFc8bXz8SJrsqS-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="450" y="121" />
+              <mxPoint x="394" y="121" />
+              <mxPoint x="394" y="120" />
+              <mxPoint x="259" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-3" value="基于Java的酒店房间管理与客户入住登记系统设计与实现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" width="253" height="84" as="geometry" />
