@@ -20,7 +20,7 @@
           <mxGeometry x="700" y="300" width="33" height="210" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-8" value="客服退订管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="277" width="158" height="48" as="geometry" />
+          <mxGeometry x="820" y="300" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-9" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1483" y="277" width="125" height="48" as="geometry" />
@@ -36,12 +36,6 @@
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-13" value="系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="30" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="4ZFWwZbFc8bXz8SJrsqS-20" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" target="4ZFWwZbFc8bXz8SJrsqS-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1568.9484536082473" y="351" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-21" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" target="4ZFWwZbFc8bXz8SJrsqS-9">
           <mxGeometry relative="1" as="geometry">
