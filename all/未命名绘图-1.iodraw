@@ -17,7 +17,7 @@
           <mxGeometry x="610" y="300" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-7" value="客房信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1067" y="277" width="158" height="48" as="geometry" />
+          <mxGeometry x="700" y="300" width="33" height="210" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-8" value="客服退订管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1275" y="277" width="158" height="48" as="geometry" />
