@@ -8,7 +8,7 @@
           <mxGeometry x="420" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-4" value="管理员个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="170" width="173" height="48" as="geometry" />
+          <mxGeometry x="580" y="140" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-5" value="客户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="300" width="30" height="210" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="700" y="300" width="33" height="210" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-8" value="客服退订管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="300" width="30" height="200" as="geometry" />
+          <mxGeometry x="797" y="300" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-9" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1483" y="277" width="125" height="48" as="geometry" />
