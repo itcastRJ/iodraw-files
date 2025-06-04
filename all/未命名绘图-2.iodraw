@@ -164,11 +164,15 @@
         <mxCell id="e3QRpiQtjtzMrdXEapEY-38" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e3QRpiQtjtzMrdXEapEY-39" value="点击次数" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="902.0017145876975" y="2228.9982854123027" width="74" height="36" as="geometry" />
+        <mxCell id="e3QRpiQtjtzMrdXEapEY-39" value="点击次数" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="900.0017145876975" y="2217.9982854123027" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-40" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-39">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="925" y="2278" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-41" value="客房介绍" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="966.0047630418301" y="2264.9982854123027" width="74" height="36" as="geometry" />
