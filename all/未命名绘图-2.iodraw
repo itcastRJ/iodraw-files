@@ -194,6 +194,9 @@
         <mxCell id="e3QRpiQtjtzMrdXEapEY-48" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e3QRpiQtjtzMrdXEapEY-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e3QRpiQtjtzMrdXEapEY-50" target="e3QRpiQtjtzMrdXEapEY-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-50" value="用户名" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="565.0045283300833" y="2445.0010991546883" width="74" height="36" as="geometry" />
         </mxCell>
