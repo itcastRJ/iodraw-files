@@ -98,25 +98,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-33" value="总金额" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="766.0045283300832" y="2256.995471669917" width="74" height="36" as="geometry" />
+          <mxGeometry x="747.0045283300832" y="2245.995471669917" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-34" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-35" value="数量" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="827.0047630418302" y="2220.9982854123027" width="74" height="36" as="geometry" />
+          <mxGeometry x="823.0047630418302" y="2205.9982854123027" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-36" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-37" value="预定日期" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="928.0028137423857" y="2203" width="74" height="36" as="geometry" />
+          <mxGeometry x="917.0028137423857" y="2209" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-38" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-39" value="支付状态" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="987.0017145876975" y="2238.9982854123027" width="74" height="36" as="geometry" />
+          <mxGeometry x="987.0017145876975" y="2241.9982854123027" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-40" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
