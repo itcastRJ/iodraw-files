@@ -200,6 +200,9 @@
         <mxCell id="e3QRpiQtjtzMrdXEapEY-50" value="用户名" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="575.0045283300833" y="2412.0010991546883" width="74" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="e3QRpiQtjtzMrdXEapEY-53" value="客房图片" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="580.0045283300833" y="2462.0010991546883" width="74" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
