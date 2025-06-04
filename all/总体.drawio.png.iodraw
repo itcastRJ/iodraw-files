@@ -86,13 +86,13 @@
           <mxGeometry x="851.0017145876975" y="2473.9982854123027" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-29" value="预定编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="2354.9971862576144" width="74" height="36" as="geometry" />
+          <mxGeometry x="667" y="2340.9971862576144" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-30" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-31" value="姓名" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="654.0017145876975" y="2310.99523695817" width="74" height="36" as="geometry" />
+          <mxGeometry x="710.0017145876975" y="2296.99523695817" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-32" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-35" value="数量" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="845.0047630418302" y="2226.9982854123027" width="74" height="36" as="geometry" />
+          <mxGeometry x="827.0047630418302" y="2220.9982854123027" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-36" value="" style="edgeStyle=straight;rounded=0;html=1;strokeWidth=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="e3QRpiQtjtzMrdXEapEY-28" target="e3QRpiQtjtzMrdXEapEY-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -149,10 +149,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-50" value="用户名" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="593.0045283300833" y="2405.0010991546883" width="74" height="36" as="geometry" />
+          <mxGeometry x="635.0045283300833" y="2379.0010991546883" width="74" height="36" as="geometry" />
         </mxCell>
         <mxCell id="e3QRpiQtjtzMrdXEapEY-53" value="客房图片" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="580.0045283300833" y="2451.0010991546883" width="74" height="36" as="geometry" />
+          <mxGeometry x="618.0045283300833" y="2430.0010991546883" width="74" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
