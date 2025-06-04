@@ -15,6 +15,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4ZFWwZbFc8bXz8SJrsqS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZFWwZbFc8bXz8SJrsqS-3" target="4ZFWwZbFc8bXz8SJrsqS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-3" value="基于Java的酒店房间管理与客户入住登记系统设计与实现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" width="253" height="90" as="geometry" />
         </mxCell>
