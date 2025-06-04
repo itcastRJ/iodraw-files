@@ -20,13 +20,13 @@
           <mxGeometry x="680" y="260" width="33" height="190" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-8" value="客服退订管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="753" y="260" width="30" height="210" as="geometry" />
+          <mxGeometry x="753" y="260" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-9" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1483" y="277" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-10" value="用户个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="157" height="48" as="geometry" />
+          <mxGeometry x="180" y="140" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4ZFWwZbFc8bXz8SJrsqS-11" value="客房预订管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="40" height="190" as="geometry" />
