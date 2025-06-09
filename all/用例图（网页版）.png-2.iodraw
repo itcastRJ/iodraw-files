@@ -78,11 +78,14 @@
         <mxCell id="GbXjWLJTz-7zOgJ5lPsa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FhjBdXvLvnUG6RFB4L3E-3" target="FhjBdXvLvnUG6RFB4L3E-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GbXjWLJTz-7zOgJ5lPsa-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="GbXjWLJTz-7zOgJ5lPsa-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.03;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FhjBdXvLvnUG6RFB4L3E-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="42" y="263" as="sourcePoint" />
             <mxPoint x="449" y="279" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GbXjWLJTz-7zOgJ5lPsa-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="231" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
