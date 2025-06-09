@@ -31,7 +31,7 @@
           <mxGeometry x="124" y="360.5" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-8" value="系统管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="116" y="443" width="114" height="50" as="geometry" />
+          <mxGeometry x="125" y="443" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-10" value="系统首页管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="116" y="42" width="114" height="50" as="geometry" />
@@ -77,6 +77,12 @@
         </mxCell>
         <mxCell id="GbXjWLJTz-7zOgJ5lPsa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FhjBdXvLvnUG6RFB4L3E-3" target="FhjBdXvLvnUG6RFB4L3E-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GbXjWLJTz-7zOgJ5lPsa-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="42" y="263" as="sourcePoint" />
+            <mxPoint x="449" y="279" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
