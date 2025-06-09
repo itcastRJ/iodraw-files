@@ -88,7 +88,10 @@
           <mxGeometry x="299" y="231" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GbXjWLJTz-7zOgJ5lPsa-4" value="首页" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="697" y="97" width="111" height="61" as="geometry" />
+          <mxGeometry x="394" y="61" width="111" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="GbXjWLJTz-7zOgJ5lPsa-5" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="166" width="111" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
