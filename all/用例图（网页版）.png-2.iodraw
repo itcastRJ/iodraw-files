@@ -13,35 +13,35 @@
         <mxCell id="NKgD-5kaWgIwJ9gR1kiB-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" parent="1" source="FhjBdXvLvnUG6RFB4L3E-2" target="FhjBdXvLvnUG6RFB4L3E-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="159" y="390" />
+              <mxPoint x="128" y="402" />
             </Array>
           </mxGeometry>
         </mxCell>
         <object label="管理员" id="FhjBdXvLvnUG6RFB4L3E-2">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-            <mxGeometry x="42" y="228" width="30" height="60" as="geometry" />
+            <mxGeometry x="11" y="240" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-3" value="个人中心管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="100" width="114" height="50" as="geometry" />
+          <mxGeometry x="159" y="112" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-4" value="客户管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="160" width="114" height="50" as="geometry" />
+          <mxGeometry x="159" y="172" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-5" value="客房类型管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="227" width="114" height="50" as="geometry" />
+          <mxGeometry x="154" y="239" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-6" value="客房信息管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="288" width="114" height="50" as="geometry" />
+          <mxGeometry x="154" y="300" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-7" value="客服退订管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="366" width="114" height="50" as="geometry" />
+          <mxGeometry x="159" y="378" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-8" value="系统管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="156" y="448" width="114" height="50" as="geometry" />
+          <mxGeometry x="125" y="460" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-10" value="系统首页管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="37" width="114" height="50" as="geometry" />
+          <mxGeometry x="154" y="49" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NKgD-5kaWgIwJ9gR1kiB-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FhjBdXvLvnUG6RFB4L3E-18" target="FhjBdXvLvnUG6RFB4L3E-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
