@@ -23,7 +23,7 @@
           </mxCell>
         </object>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-3" value="个人中心管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="159" y="112" width="114" height="50" as="geometry" />
+          <mxGeometry x="113" y="107" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-4" value="客户管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="172" width="114" height="50" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="125" y="460" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhjBdXvLvnUG6RFB4L3E-10" value="系统首页管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="154" y="49" width="114" height="50" as="geometry" />
+          <mxGeometry x="105" y="42" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NKgD-5kaWgIwJ9gR1kiB-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FhjBdXvLvnUG6RFB4L3E-18" target="FhjBdXvLvnUG6RFB4L3E-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -80,6 +80,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NKgD-5kaWgIwJ9gR1kiB-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.032;entryY=0.708;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="FhjBdXvLvnUG6RFB4L3E-18" target="FhjBdXvLvnUG6RFB4L3E-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GbXjWLJTz-7zOgJ5lPsa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FhjBdXvLvnUG6RFB4L3E-3" target="FhjBdXvLvnUG6RFB4L3E-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
