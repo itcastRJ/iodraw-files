@@ -99,7 +99,7 @@
         <mxCell id="GbXjWLJTz-7zOgJ5lPsa-7" value="入住安排管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="304" width="111" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="GbXjWLJTz-7zOgJ5lPsa-8" value="入住安排管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GbXjWLJTz-7zOgJ5lPsa-8" value="客房类型管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="403" width="111" height="61" as="geometry" />
         </mxCell>
       </root>
