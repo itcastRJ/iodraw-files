@@ -93,6 +93,9 @@
         <mxCell id="GbXjWLJTz-7zOgJ5lPsa-5" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="166" width="111" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="GbXjWLJTz-7zOgJ5lPsa-6" value="客房预订管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="271" width="111" height="61" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
