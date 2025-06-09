@@ -102,6 +102,9 @@
         <mxCell id="GbXjWLJTz-7zOgJ5lPsa-8" value="客房类型管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="403" width="111" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="GbXjWLJTz-7zOgJ5lPsa-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.034;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GbXjWLJTz-7zOgJ5lPsa-3" target="GbXjWLJTz-7zOgJ5lPsa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
